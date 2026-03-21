@@ -9,7 +9,7 @@
  ╚═╝     ╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝ ╚════╝
 ```
 
-**Software Developer** · Switzerland 🇨🇭
+**Software Developer** · Switzerland
 
 [![Portfolio](https://img.shields.io/badge/VextOS_Portfolio-0a0a0f?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0iIzlCOEVDMSI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=&logoColor=9B8EC1)](https://vextos-portfolio.vercel.app)
 [![Vext Agency](https://img.shields.io/badge/Vext_Agency-0a0a0f?style=for-the-badge&logo=vercel&logoColor=9B8EC1)](https://vextagency.ch)
@@ -45,20 +45,20 @@ I care about clean code, sharp interfaces, and shipping things that feel *alive*
 
 #### Currently
 
-- 🏢 &nbsp; Java Developer @ **Galenica**
-- 🚀 &nbsp; Founder @ **[Vext Agency](https://vextagency.ch)**
-- 📚 &nbsp; Studying @ **HFTM**
-- 🎯 &nbsp; Building [VextOS](https://vextos-portfolio.vercel.app) — an OS in your browser
+- Java Developer @ **Galenica**
+- Founder @ **[Vext Agency](https://vextagency.ch)**
+- Studying @ **HFTM**
+- Building [VextOS](https://vextos-portfolio.vercel.app) — an OS in your browser
 
 </td>
 <td width="50%" valign="top">
 
 #### Background
 
-- 🇲🇰 &nbsp; Born in Macedonia, raised in Switzerland
-- 🗣️ &nbsp; Deutsch · English (C1) · Macedonian · Serbian
-- 🎓 &nbsp; EFZ Application Development (Kheops AG)
-- 📜 &nbsp; C1 Cambridge English Certificate
+- Born in Macedonia, raised in Switzerland
+- Deutsch · English (C1) · Macedonian · Serbian
+- EFZ Application Development (Kheops AG)
+- C1 Cambridge English Certificate
 
 </td>
 </tr>
@@ -100,10 +100,10 @@ I care about clean code, sharp interfaces, and shipping things that feel *alive*
 <div align="center">
 
 <a href="https://github-readme-stats.vercel.app">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lolzi-creator&show_icons=true&theme=transparent&hide_border=true&title_color=9B8EC1&icon_color=9B8EC1&text_color=8B8B9E&bg_color=0a0a0f&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lolzi-creator&show_icons=true&theme=transparent&hide_border=true&title_color=9B8EC1&icon_color=9B8EC1&text_color=8B8B9E&bg_color=0a0a0f&rank_icon=github&include_all_commits=false" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=lolzi-creator&theme=transparent&hide_border=true&ring=9B8EC1&fire=9B8EC1&currStreakLabel=9B8EC1&sideLabels=8B8B9E&dates=555555&background=0a0a0f&currStreakNum=C8C3DC&sideNums=C8C3DC" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=lolzi-creator&theme=transparent&hide_border=true&ring=9B8EC1&fire=9B8EC1&currStreakLabel=9B8EC1&sideLabels=8B8B9E&dates=555555&background=0a0a0f&currStreakNum=C8C3DC&sideNums=C8C3DC&date_format=j%20M%5B%20Y%5D&starting_year=2025" />
 </a>
 
 </div>
@@ -126,6 +126,6 @@ I care about clean code, sharp interfaces, and shipping things that feel *alive*
  └──────────────────────────────────────────┘
 ```
 
-<sub>Swiss-made with precision ⚙️</sub>
+<sub>Swiss-made with precision</sub>
 
 </div>

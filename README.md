@@ -1,66 +1,131 @@
 <div align="center">
 
-# Hey, I'm Meto 👋
+```
+ ███╗   ███╗███████╗████████╗ ██████╗ ██████╗ ██╗     ██╗
+ ████╗ ████║██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗██║     ██║
+ ██╔████╔██║█████╗     ██║   ██║   ██║██║  ██║██║     ██║
+ ██║╚██╔╝██║██╔══╝     ██║   ██║   ██║██║  ██║██║██   ██║
+ ██║ ╚═╝ ██║███████╗   ██║   ╚██████╔╝██████╔╝██║╚█████╔╝
+ ╚═╝     ╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝ ╚════╝
+```
 
-**Full-Stack Developer** · Founder of [Vext Agency](https://vextagency.ch) · Based in Switzerland 🇨🇭
+**Software Developer** · Switzerland 🇨🇭
 
-Building web solutions for local businesses in the Solothurn/Bern region.  
-Java & Cloud by day at Galenica — React & Next.js by night.
+[![Portfolio](https://img.shields.io/badge/VextOS_Portfolio-0a0a0f?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0iIzlCOEVDMSI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=&logoColor=9B8EC1)](https://vextos-portfolio.vercel.app)
+[![Vext Agency](https://img.shields.io/badge/Vext_Agency-0a0a0f?style=for-the-badge&logo=vercel&logoColor=9B8EC1)](https://vextagency.ch)
+[![Email](https://img.shields.io/badge/Contact-0a0a0f?style=for-the-badge&logo=gmail&logoColor=9B8EC1)](mailto:lolzicreator@gmail.com)
+
+</div>
+
+---
 
 <br/>
 
-[![Website](https://img.shields.io/badge/vextagency.ch-000?style=for-the-badge&logo=safari&logoColor=white)](https://vextagency.ch)
-[![Email](https://img.shields.io/badge/Contact-000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:meto@vextagency.ch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meto-krshkov)
+<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolzi-creator&layout=compact&theme=transparent&hide_border=true&title_color=9B8EC1&text_color=8B8B9E&bg_color=0a0a0f" />
 
-</div>
+### Hey, I'm Metodij.
 
----
+I build things for the web — by day as a **Java Developer at Galenica**, by night running **[Vext Agency](https://vextagency.ch)**, and somewhere in between studying **Software Development at HFTM**.
 
-### What I work with
+I moved to Switzerland at 14, learned the language, completed a full apprenticeship as an Application Developer, and never stopped building since.
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,tailwind,threejs&theme=dark" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,docker,linux,postgres,git,vercel,figma&theme=dark" />
-  </a>
-</div>
+I care about clean code, sharp interfaces, and shipping things that feel *alive*.
+
+<br clear="right"/>
+
+<br/>
 
 ---
 
-### Currently
+<br/>
 
-```
- 🔨  Building VextOS — an interactive OS-themed developer portfolio
- 🏢  Java/Cloud Development @ Galenica
- 🎓  Studying Cloud Architecture @ HFTM
- 🚀  Running Vext Agency — AI-powered web solutions for Swiss SMBs
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Currently
+
+- 🏢 &nbsp; Java Developer @ **Galenica**
+- 🚀 &nbsp; Founder @ **[Vext Agency](https://vextagency.ch)**
+- 📚 &nbsp; Studying @ **HFTM**
+- 🎯 &nbsp; Building [VextOS](https://vextos-portfolio.vercel.app) — an OS in your browser
+
+</td>
+<td width="50%" valign="top">
+
+#### Background
+
+- 🇲🇰 &nbsp; Born in Macedonia, raised in Switzerland
+- 🗣️ &nbsp; Deutsch · English (C1) · Macedonian · Serbian
+- 🎓 &nbsp; EFZ Application Development (Kheops AG)
+- 📜 &nbsp; C1 Cambridge English Certificate
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-### Stats
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lolzi-creator&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=9B8EC1&text_color=c9d1d9&ring_color=9B8EC1&hide_title=true&hide_rank=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolzi-creator&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&hide_title=true" height="150" />
-</div>
+#### Things I work with
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+<br/>
 
 ---
-
-### Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lolzi-creator/lolzi-creator/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lolzi-creator/lolzi-creator/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/lolzi-creator/lolzi-creator/output/github-snake.svg" width="100%" />
-</picture>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lolzi-creator&color=9B8EC1&style=flat-square&label=Profile+views" />
+
+<a href="https://github-readme-stats.vercel.app">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lolzi-creator&show_icons=true&theme=transparent&hide_border=true&title_color=9B8EC1&icon_color=9B8EC1&text_color=8B8B9E&bg_color=0a0a0f&rank_icon=github" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=lolzi-creator&theme=transparent&hide_border=true&ring=9B8EC1&fire=9B8EC1&currStreakLabel=9B8EC1&sideLabels=8B8B9E&dates=555555&background=0a0a0f&currStreakNum=C8C3DC&sideNums=C8C3DC" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+```
+ ┌──────────────────────────────────────────┐
+ │                                          │
+ │   "Code it. Design it. Ship it."         │
+ │                                          │
+ │              — Metodij                   │
+ │                                          │
+ └──────────────────────────────────────────┘
+```
+
+<sub>Swiss-made with precision ⚙️</sub>
+
 </div>

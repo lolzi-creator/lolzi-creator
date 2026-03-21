@@ -1,66 +1,187 @@
-<div align="center">
-
-# Hey, I'm Meto 👋
-
-**Full-Stack Developer** · Founder of [Vext Agency](https://vextagency.ch) · Based in Switzerland 🇨🇭
-
-Building web solutions for local businesses in the Solothurn/Bern region.  
-Java & Cloud by day at Galenica — React & Next.js by night.
+<p align="center">
+  <img src="https://img.shields.io/badge/VextOS-v1.0-9B8EC1?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Next.js_14-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/vextagency.ch-000?style=for-the-badge&logo=safari&logoColor=white)](https://vextagency.ch)
-[![Email](https://img.shields.io/badge/Contact-000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:meto@vextagency.ch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meto-krshkov)
+<h1 align="center">
+  <code>~/vextos</code>
+</h1>
 
-</div>
-
----
-
-### What I work with
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,tailwind,threejs&theme=dark" />
-  </a>
+<p align="center">
+  <strong>An interactive OS-themed portfolio that runs in your browser.</strong>
   <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,docker,linux,postgres,git,vercel,figma&theme=dark" />
-  </a>
-</div>
+  <sub>Not your average portfolio. This is an operating system.</sub>
+</p>
 
----
-
-### Currently
-
-```
- 🔨  Building VextOS — an interactive OS-themed developer portfolio
- 🏢  Java/Cloud Development @ Galenica
- 🎓  Studying Cloud Architecture @ HFTM
- 🚀  Running Vext Agency — AI-powered web solutions for Swiss SMBs
-```
-
----
-
-### Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lolzi-creator&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=9B8EC1&text_color=c9d1d9&ring_color=9B8EC1&hide_title=true&hide_rank=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolzi-creator&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&hide_title=true" height="150" />
-</div>
-
----
-
-### Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lolzi-creator/lolzi-creator/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lolzi-creator/lolzi-creator/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/lolzi-creator/lolzi-creator/output/github-snake.svg" width="100%" />
-</picture>
+<p align="center">
+  <a href="https://vextos-portfolio.vercel.app"><strong>[ ENTER VEXTOS ]</strong></a>
+</p>
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lolzi-creator&color=9B8EC1&style=flat-square&label=Profile+views" />
-</div>
+---
+
+<br/>
+
+## `> whoami`
+
+```
+stranger@vextos ~ $ whoami
+
+  Metodij Krshkov
+  Java Developer @ Galenica | Founder @ Vext Agency | HFTM Student
+  Swiss-based | 4 Languages | 20+ Projects
+
+  lolzicreator@gmail.com
+```
+
+<br/>
+
+## `> neofetch`
+
+```
+                  ╔══════════════════════╗
+  ██╗   ██╗      ║     V e x t O S      ║
+  ██║   ██║      ╠══════════════════════╣
+  ██║   ██║      ║  OS:      VextOS 1.0 ║
+  ╚██╗ ██╔╝      ║  Host:    Browser    ║
+   ╚████╔╝       ║  Shell:   Next.js 14 ║
+    ╚██╔╝        ║  Engine:  Three.js   ║
+     ██║         ║  UI:      Tailwind   ║
+     ╚═╝         ║  State:   Zustand    ║
+                  ║  Motion:  Framer    ║
+  x t O S        ║  Lang:    TypeScript ║
+                  ╚══════════════════════╝
+```
+
+<br/>
+
+## `> ls features/`
+
+```
+drwxr-xr-x  boot-sequence/        BIOS-style boot → Login → Desktop
+drwxr-xr-x  particle-wallpaper/   Three.js face portrait made of 100k+ particles
+drwxr-xr-x  code-rain/            Matrix-style falling code background
+drwxr-xr-x  window-manager/       Drag, resize, minimize, maximize, close
+drwxr-xr-x  spotlight/            ⌘K / ⌘Space search & app launcher
+drwxr-xr-x  terminal/             Working CLI with 15+ commands
+drwxr-xr-x  context-menu/         Right-click desktop menu
+drwxr-xr-x  notifications/        Toast notification system
+drwxr-xr-x  keybinds/             Full keyboard shortcut system
+drwxr-xr-x  widgets/              Clock, Quick Info, Now Playing
+```
+
+<br/>
+
+## `> ls apps/`
+
+| App | Description |
+|-----|-------------|
+| `about.txt` | Full profile — career timeline, skills, languages, interests |
+| `projects/` | Portfolio grid with 6 projects & category filtering |
+| `browser` | Personal links page with bookmarks |
+| `mail` | Contact form disguised as email client |
+| `music` | Tecno-themed player with animated visualizer |
+| `terminal` | CLI with `neofetch`, `skills`, `contact`, `cat`, and more |
+| `settings` | System info & credits panel |
+| `game` | Playable Snake game |
+
+<br/>
+
+## `> cat keyboard-shortcuts.md`
+
+| Shortcut | Action |
+|----------|--------|
+| `⌘ + Space` | Spotlight Search |
+| `⌘ + K` | Spotlight Search |
+| `⌘ + W` | Close window |
+| `⌘ + M` | Minimize window |
+| `⌘ + Shift + M` | Maximize window |
+| `⌘ + Q` | Shutdown (restart) |
+| `⌘ + /` | Keybindings panel |
+| `Right-click` | Context menu |
+| `Double-click` | Open desktop icon |
+
+<br/>
+
+## `> cat tech-stack.md`
+
+```
+Frontend        Next.js 14 (App Router) + TypeScript
+Styling         Tailwind CSS + CSS Variables + Glass Morphism
+3D Engine       Three.js via @react-three/fiber
+Animations      Framer Motion (springs, layout, presence)
+State           Zustand (window manager, notifications)
+Fonts           Cabinet Grotesk, General Sans, JetBrains Mono
+Deploy          Vercel
+```
+
+<br/>
+
+## `> ./install.sh`
+
+```bash
+# Clone the repo
+git clone https://github.com/lolzi-creator/portfolioOS.git
+cd portfolioOS
+
+# Install dependencies
+npm install --legacy-peer-deps
+
+# Add your face photo
+cp your-photo.png public/face.png
+
+# Run it
+npm run dev
+
+# Open http://localhost:3000
+```
+
+<br/>
+
+## `> tree src/`
+
+```
+vextos-portfolio/
+├── app/
+│   ├── layout.tsx          # Root layout, fonts, metadata
+│   ├── page.tsx            # Boot → Login → Desktop flow
+│   └── globals.css         # Theme, glass effects, grain overlay
+├── components/
+│   ├── boot/               # BIOS boot sequence
+│   ├── login/              # Stranger/Owner profile selection
+│   ├── desktop/            # Desktop shell, dock, menu bar, windows
+│   │   ├── Wallpaper.tsx   # Three.js particle face
+│   │   ├── CodeRain.tsx    # Matrix code rain (Canvas 2D)
+│   │   ├── Window.tsx      # Draggable/resizable window
+│   │   ├── Dock.tsx        # Bottom dock with magnification
+│   │   ├── Spotlight.tsx   # ⌘K command palette
+│   │   └── ...
+│   ├── apps/               # 8 app components
+│   └── shared/             # Context menu, icons
+├── stores/                 # Zustand (windows, notifications)
+└── lib/                    # Constants, app definitions
+```
+
+<br/>
+
+---
+
+<p align="center">
+  <sub>Built with obsessive attention to detail by <strong>Metodij Krshkov</strong></sub>
+  <br/>
+  <sub>
+    <a href="https://vextagency.ch">Vext Agency</a> ·
+    <a href="mailto:lolzicreator@gmail.com">Email</a> ·
+    Swiss-made 🇨🇭
+  </sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-stranger_welcome-9B8EC1?style=flat-square&labelColor=0a0a0f" />
+</p>
